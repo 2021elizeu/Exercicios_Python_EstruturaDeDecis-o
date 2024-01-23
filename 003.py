@@ -7,7 +7,7 @@ if sexo == 'F':
 elif sexo == 'M':
      print ('Masculino')
 else:
-     print('Sexo invalido')
+     print('Sexo Invalido')
  
 
 
